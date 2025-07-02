@@ -28,7 +28,7 @@ npm install
 
 ### 3. Environment Variables
 
-Create a `.env.local` file and configure the following:
+Create a `.env` file and configure the following:
 
 ```env
 # Clerk
